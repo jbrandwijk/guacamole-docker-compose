@@ -30,6 +30,9 @@ docker-compose up init-guac-db
 docker-compose up -d
 ```
 Guacamole is now listening on port 8080 and can be accessed on localhost.
+
 default username: guacadmin
+
 default password: guacadmin
+
 Be sure to change the default password.
